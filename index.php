@@ -8,7 +8,7 @@
 <body>
 <?php require_once(__DIR__ . '/header.php'); ?>
 
-<h1>Welcome board</h1>
+<h1>Welcome on the board</h1>
 
 <?php require_once(__DIR__ . '/footer.php'); ?>
 </body>

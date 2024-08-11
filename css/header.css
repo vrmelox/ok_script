@@ -43,15 +43,19 @@ nav ul li {
 }
 
 nav ul li a {
-    color:#00bf63;
+    color:#000;
     text-decoration: none;
 
 }
 
 nav ul li a:hover {
-    color:#000;
+    color: #00bf63;
     transition: .3s;
 
+}
+
+nav ul li a:active {
+    color: #00bf63;
 }
 
 .btn {
