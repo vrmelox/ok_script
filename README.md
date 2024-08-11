@@ -1,6 +1,6 @@
 # Ok script
 
-OK TAPY est un site web qui permet aux utilisateurs d’améliorer leur maitrise du clavier : apprendre à taper rapidement et bien.
+OK script est un site web qui permet aux utilisateurs d’améliorer leur maitrise du clavier : apprendre à taper rapidement et bien.
 
 - Langages de programmation utilisés
     - HTML / CSS
